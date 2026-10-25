@@ -2,6 +2,10 @@
 
 Painting your mind!
 
+## 01. Dev note p.135
+
+[![Development Note p.135](https://img.youtube.com/vi/mRtkeDtiRe0/0.jpg)](https://www.youtube.com/watch?v=mRtkeDtiRe0)
+
 # **Links(링크)**
 
 * [JkhTV YouTube(장경혁tv)](https://www.youtube.com/channel/UC0lR1aYGgOhFioC3IsazUtw)
