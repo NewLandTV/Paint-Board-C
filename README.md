@@ -2,9 +2,13 @@
 
 Painting your mind!
 
-## 01. Dev note p.135
+## 01. Dev Note p.135
 
 [![Development Note p.135](https://img.youtube.com/vi/mRtkeDtiRe0/0.jpg)](https://www.youtube.com/watch?v=mRtkeDtiRe0)
+
+## 01. Dev Note p.204
+
+[![Development Note p.204](https://img.youtube.com/vi/5RB7yd9IzYc/0.jpg)](https://www.youtube.com/watch?v=5RB7yd9IzYc)
 
 # **Links(링크)**
 
